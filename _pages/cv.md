@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D , Zhejiang Unviersity, 2027 (expected)
-* M.S. , Wuhan University of Science and Technology, 2023
-* B.S. , Wuhan University of Science and Technology, 2020
+* Ph.D , Zhejiang Unviersity, 2027 (expected).
+* M.S. , Wuhan University of Science and Technology, 2023.
+* B.S. , Wuhan University of Science and Technology, 2020.
   
 Service and leadership
 ======
-* Journal Reviewer: IEEE TMM, IEEE ACCESS
-* Conference Reviewer: ICASSP 2024
+* Journal Reviewer: IEEE TMM, IEEE TAFFC, IEEE ACCESS.
+* Conference Reviewer: ICASSP 2024.
 
 Awards
 ======
-* Outstanding Graduate of Wuhan University of Science and Technology (2023)
+* Outstanding Graduate of Wuhan University of Science and Technology (2023).
 * Outstanding master's dissertation of Wuhan University of Science and Technology (2023).
