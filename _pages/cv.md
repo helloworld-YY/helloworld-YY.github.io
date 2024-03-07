@@ -22,5 +22,5 @@ Service and leadership
 
 Awards
 ======
-* Outstanding Graduate of Wuhan University of Science and Technology(2023)
-* Outstanding master's dissertation of Wuhan University of Science and Technology(2023).
+* Outstanding Graduate of Wuhan University of Science and Technology (2023)
+* Outstanding master's dissertation of Wuhan University of Science and Technology (2023).
