@@ -11,7 +11,7 @@ I'm currently a first-year doctoral student in the College of Computer Science a
 
 My research topics are affective computing, gaze estimation, gaze-based HCI, and computer vision.
 
-<strong>If you are interested in my topics, please do not hesitate to contact me.</strong>
+<strong>If you are interested in my topics, please do not hesitate to contact me~ ^.^</strong>
 
 News
 ======
