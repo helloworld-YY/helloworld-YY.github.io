@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year doctoral student at Zhejiang university
+I'm the first year doctoral student in the College of Computer Science and Technology at Zhejiang University
 
 News
 ======
