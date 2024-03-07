@@ -17,5 +17,5 @@ News
   <li>[09/2023] I begined my Phd's life. </li>
   <li>[04/2023] one paper accepted by IEEE TII. </li>
   <li>[04/2023] one paper accepted by ICIEA 2023. </li>
-  <li>[03/2023] one first-authoredpaper accepted by IEEE TNSRE. </li>
+  <li>[03/2023] one first-authored paper accepted by IEEE TNSRE. </li>
 </ul>
