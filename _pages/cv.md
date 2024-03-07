@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D , Zhejiang Unviersity, 2027 (expected).
-* M.S. , Wuhan University of Science and Technology, 2023.
-* B.S. , Wuhan University of Science and Technology, 2020.
+* Ph.D., Zhejiang University, 2027 (expected).
+* M.S., Wuhan University of Science and Technology, 2023.
+* B.S., Wuhan University of Science and Technology, 2020.
   
 Service and leadership
 ======
