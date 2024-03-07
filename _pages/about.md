@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a first-year doctoral student in the College of Computer Science and Technology at <a href ="https://www.zju.edu.cn/english/">Zhejiang University></a>.Before this, I received my M.S. and B.E. degrees from the School of Information Science and Engineering, Wuhan University of Science and Technology, Wuhan, China, in 2020, 2016, respectively.
+I'm currently a first-year doctoral student in the College of Computer Science and Technology at <a href ="https://www.zju.edu.cn/english/">Zhejiang University></a>. Before this, I received my M.S. and B.E. degrees from the School of Information Science and Engineering, Wuhan University of Science and Technology, Wuhan, China, in 2020 and 2016, respectively.
 
-My research topics are affective computing, gaze estimation, and computer vision.
+My research topics are affective computing, gaze estimation, gaze-based HCI, and computer vision.
 
 <strong>If you are interested in my topics, please do not hesitate to contact me.</strong>
 
