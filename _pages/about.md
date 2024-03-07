@@ -7,10 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm the first-year doctoral student in the College of Computer Science and Technology at Zhejiang University.
+I'm a first-year doctoral student in the College of Computer Science and Technology at Zhejiang University.
+
+My research topics are affective computing, gaze estimation, and computer vision.
 
 News
 ======
 <ul>
   <li>[09/2023] I begined my Phd's life. </li>
+  <li>[04/2023] one paper accepted by IEEE TII. </li>
+  <li>[04/2023] one paper accepted by ICIEA 2023. </li>
+  <li>[03/2023] one first-authoredpaper accepted by IEEE TNSRE. </li>
 </ul>
