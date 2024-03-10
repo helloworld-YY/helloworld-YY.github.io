@@ -16,6 +16,7 @@ My research topics are gaze estimation, gaze-based HCI, affective computing,  an
 News
 ======
 <ul>
+  <li>[03/2024] My personal homepage is now opened. </li>
   <li>[09/2023] I started my Ph.d. life~. </li>
   <li>[05/2023] one paper accepted by <strong>IEEE TII</strong>. </li>
   <li>[04/2023] one paper accepted by <strong>ICIEA 2023</strong>. </li>
