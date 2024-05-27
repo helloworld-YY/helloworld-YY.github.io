@@ -18,7 +18,7 @@ Education
 Service and leadership
 ======
 * Journal Reviewer: IEEE TMM, IEEE TAFFC, IVC, IEEE ACCESS.
-* Conference Reviewer: ACM MM, ICASSP 2024.
+* Conference Reviewer: ACM MM 2024, ICASSP 2024.
 
 Awards
 ======
